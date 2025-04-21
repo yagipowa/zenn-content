@@ -1,6 +1,10 @@
-# GitHub複数アカウントどうしてる？includeIfで自動切り替えした話
-
-
+---
+title: "GitHub複数アカウントどうしてる？includeIfで自動切り替えした話"
+emoji: "🔀" # 絵文字は自由に変更OK
+type: "tech" # tech or idea
+topics: ["git", "github", "git config", "複数アカウント", "includeIf"]
+published: false # 公開前は false、公開時は true に変更
+---
 
 ## 💡 はじめに
 
