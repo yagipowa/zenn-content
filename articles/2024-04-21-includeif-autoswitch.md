@@ -3,7 +3,7 @@ title: "GitHub複数アカウントどうしてる？`includeIf`で.gitconfigを
 emoji: "🔀" # 絵文字は自由に変更OK
 type: "tech" # tech or idea
 topics: ["git", "github", "git config", "複数アカウント", "includeIf"]
-published: false # 公開前は false、公開時は true に変更
+published: true # 公開前は false、公開時は true に変更
 ---
 
 ## 💡 はじめに
